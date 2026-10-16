@@ -1,6 +1,6 @@
 # Black Nova Security
 
-A responsive, one-page static website. No package installation, build, JavaScript, tracking, or external fonts required. Contact buttons open an email addressed to ian@blacknovasecurity.com. Nothing has been published or connected to your domain.
+A responsive, static website. No package installation, build, or external fonts required. Optional Google Analytics is configured in analytics.js with G-8VEE3VJPH8 and loads only after consent on the production domain. Contact buttons open an email addressed to ian@blacknovasecurity.com. This package has not been published.
 
 ## Branding
 
